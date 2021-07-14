@@ -1,3 +1,4 @@
 # let-s-chat
-#this project is created with the help of nodejs,express,and web socket:socket.io.
-#it provides a room to talk for group discussions.
+#This project is created with the help of nodejs,express,and web socket:socket.io.
+
+#It provides a room to talk for group discussions.
